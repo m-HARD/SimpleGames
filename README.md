@@ -1,5 +1,5 @@
 # m-hard
 
-# simple-web-games-by-vue
+#simple-web-games
 
 # comming soon
